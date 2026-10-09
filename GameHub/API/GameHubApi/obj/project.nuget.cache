@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yqb5QLQOiOQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lucje\\OneDrive - Summacollege O365\\school\\jaar4\\SoftwareDevelopmentGevorderd\\GameHub\\GameHub\\GameHub\\API\\GameHubApi\\GameHubApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lucje\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.12\\microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
+    "C:\\Users\\Lucje\\.nuget\\packages\\microsoft.entityframeworkcore\\10.0.12\\microsoft.entityframeworkcore.10.0.12.nupkg.sha512",
+    "C:\\Users\\Lucje\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\10.0.12\\microsoft.entityframeworkcore.abstractions.10.0.12.nupkg.sha512",
+    "C:\\Users\\Lucje\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\10.0.12\\microsoft.entityframeworkcore.analyzers.10.0.12.nupkg.sha512",
+    "C:\\Users\\Lucje\\.nuget\\packages\\microsoft.openapi\\2.12.0\\microsoft.openapi.2.12.0.nupkg.sha512",
+    "C:\\Users\\Lucje\\.nuget\\packages\\mongodb.bson\\3.12.0\\mongodb.bson.3.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
