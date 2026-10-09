@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace GameHubApi.Models
 {
-    public class newsLetter
+    public class NewsLetter
     {
         [Key]
         private ObjectId NewsLetterId;
