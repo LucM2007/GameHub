@@ -1,70 +1,56 @@
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\bin\Debug\net10.0\appsettings.Development.json
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\bin\Debug\net10.0\appsettings.json
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\bin\Debug\net10.0\GameHubApi.staticwebassets.endpoints.json
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\bin\Debug\net10.0\GameHubApi.exe
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\bin\Debug\net10.0\GameHubApi.deps.json
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\bin\Debug\net10.0\GameHubApi.runtimeconfig.json
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\bin\Debug\net10.0\GameHubApi.dll
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\bin\Debug\net10.0\GameHubApi.pdb
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\bin\Debug\net10.0\DnsClient.dll
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\bin\Debug\net10.0\DotNetEnv.dll
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\bin\Debug\net10.0\Microsoft.OpenApi.dll
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\bin\Debug\net10.0\MongoDB.Bson.dll
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\bin\Debug\net10.0\MongoDB.Driver.dll
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\bin\Debug\net10.0\SharpCompress.dll
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\bin\Debug\net10.0\Snappier.dll
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\bin\Debug\net10.0\Superpower.dll
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\bin\Debug\net10.0\ZstdSharp.dll
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\obj\Debug\net10.0\GameHubApi.csproj.AssemblyReference.cache
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\obj\Debug\net10.0\rpswa.dswa.cache.json
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\obj\Debug\net10.0\GameHubApi.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\obj\Debug\net10.0\GameHubApi.AssemblyInfoInputs.cache
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\obj\Debug\net10.0\GameHubApi.AssemblyInfo.cs
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\obj\Debug\net10.0\GameHubApi.csproj.CoreCompileInputs.cache
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\obj\Debug\net10.0\GameHubApi.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\obj\Debug\net10.0\GameHubApi.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\obj\Debug\net10.0\GameHubApi.sourcelink.json
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\obj\Debug\net10.0\rjimswa.dswa.cache.json
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\obj\Debug\net10.0\scopedcss\bundle\GameHubApi.styles.css
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\obj\Debug\net10.0\staticwebassets.build.json
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\obj\Debug\net10.0\staticwebassets.build.json.cache
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\obj\Debug\net10.0\staticwebassets.development.json
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\obj\Debug\net10.0\staticwebassets.build.endpoints.json
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\obj\Debug\net10.0\swae.build.ex.cache
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\obj\Debug\net10.0\GameHubApi.csproj.Up2Date
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\obj\Debug\net10.0\GameHubApi.dll
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\obj\Debug\net10.0\refint\GameHubApi.dll
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\obj\Debug\net10.0\GameHubApi.pdb
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\obj\Debug\net10.0\GameHubApi.genruntimeconfig.cache
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\obj\Debug\net10.0\ref\GameHubApi.dll
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\bin\Debug\net10.0\GameHubApi.staticwebassets.runtime.json
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\bin\Debug\net10.0\GameHubApi.runtimeconfig.dev.json
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\obj\Debug\net10.0\dotnet-watch\Microsoft.NET.Sdk.BlazorWeb.DotNetWatch.lib.module.js
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\obj\Debug\net10.0\dotnet-watch\Microsoft.NET.Sdk.BlazorWeb.DotNetWatch.BrowserTools.js
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\obj\Debug\net10.0\dotnet-watch\Microsoft.NET.Sdk.BlazorWeb.DotNetWatch.BrowserTools.Config.js
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\obj\Debug\net10.0\dotnet-watch\browser-tools-key.public.json
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\obj\Debug\net10.0\dotnet-watch\browser-tools-key.private.json
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\obj\Debug\net10.0\jsmodules\jsmodules.build.manifest.json
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\obj\Debug\net10.0\scopedcss\scopedcss.cache
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\obj\Debug\net10.0\compressed\ed065vynp3-{0}-s9y91u5nkn-s9y91u5nkn.gz
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\obj\Debug\net10.0\compressed\p018aboq0d-{0}-7fnw5nn32l-7fnw5nn32l.gz
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\obj\Debug\net10.0\compressed\h4oxg0rmws-{0}-lvkpp2i49p-lvkpp2i49p.gz
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\obj\Debug\net10.0\compressed\1k0g52ygle-{0}-scyj3pnqhf-scyj3pnqhf.gz
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\Lucje\OneDrive - Summacollege O365\school\jaar4\SoftwareDevelopmentGevorderd\GameHub\GameHub\GameHub\API\GameHubApi\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\randl\GameHub\gamehub\API\GameHubApi\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\randl\GameHub\gamehub\API\GameHubApi\bin\Debug\net10.0\appsettings.json
+C:\Users\randl\GameHub\gamehub\API\GameHubApi\bin\Debug\net10.0\GameHubApi.staticwebassets.endpoints.json
+C:\Users\randl\GameHub\gamehub\API\GameHubApi\bin\Debug\net10.0\GameHubApi.exe
+C:\Users\randl\GameHub\gamehub\API\GameHubApi\bin\Debug\net10.0\GameHubApi.deps.json
+C:\Users\randl\GameHub\gamehub\API\GameHubApi\bin\Debug\net10.0\GameHubApi.runtimeconfig.json
+C:\Users\randl\GameHub\gamehub\API\GameHubApi\bin\Debug\net10.0\GameHubApi.dll
+C:\Users\randl\GameHub\gamehub\API\GameHubApi\bin\Debug\net10.0\GameHubApi.pdb
+C:\Users\randl\GameHub\gamehub\API\GameHubApi\bin\Debug\net10.0\DnsClient.dll
+C:\Users\randl\GameHub\gamehub\API\GameHubApi\bin\Debug\net10.0\DotNetEnv.dll
+C:\Users\randl\GameHub\gamehub\API\GameHubApi\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\randl\GameHub\gamehub\API\GameHubApi\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\randl\GameHub\gamehub\API\GameHubApi\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\randl\GameHub\gamehub\API\GameHubApi\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\randl\GameHub\gamehub\API\GameHubApi\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\randl\GameHub\gamehub\API\GameHubApi\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\randl\GameHub\gamehub\API\GameHubApi\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\randl\GameHub\gamehub\API\GameHubApi\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\randl\GameHub\gamehub\API\GameHubApi\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\randl\GameHub\gamehub\API\GameHubApi\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\randl\GameHub\gamehub\API\GameHubApi\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\randl\GameHub\gamehub\API\GameHubApi\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\randl\GameHub\gamehub\API\GameHubApi\bin\Debug\net10.0\MongoDB.Bson.dll
+C:\Users\randl\GameHub\gamehub\API\GameHubApi\bin\Debug\net10.0\MongoDB.Driver.dll
+C:\Users\randl\GameHub\gamehub\API\GameHubApi\bin\Debug\net10.0\SharpCompress.dll
+C:\Users\randl\GameHub\gamehub\API\GameHubApi\bin\Debug\net10.0\Snappier.dll
+C:\Users\randl\GameHub\gamehub\API\GameHubApi\bin\Debug\net10.0\Superpower.dll
+C:\Users\randl\GameHub\gamehub\API\GameHubApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\randl\GameHub\gamehub\API\GameHubApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\randl\GameHub\gamehub\API\GameHubApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\randl\GameHub\gamehub\API\GameHubApi\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\randl\GameHub\gamehub\API\GameHubApi\bin\Debug\net10.0\ZstdSharp.dll
+C:\Users\randl\GameHub\gamehub\API\GameHubApi\obj\Debug\net10.0\GameHubApi.csproj.AssemblyReference.cache
+C:\Users\randl\GameHub\gamehub\API\GameHubApi\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\randl\GameHub\gamehub\API\GameHubApi\obj\Debug\net10.0\GameHubApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\randl\GameHub\gamehub\API\GameHubApi\obj\Debug\net10.0\GameHubApi.AssemblyInfoInputs.cache
+C:\Users\randl\GameHub\gamehub\API\GameHubApi\obj\Debug\net10.0\GameHubApi.AssemblyInfo.cs
+C:\Users\randl\GameHub\gamehub\API\GameHubApi\obj\Debug\net10.0\GameHubApi.csproj.CoreCompileInputs.cache
+C:\Users\randl\GameHub\gamehub\API\GameHubApi\obj\Debug\net10.0\GameHubApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\randl\GameHub\gamehub\API\GameHubApi\obj\Debug\net10.0\GameHubApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\randl\GameHub\gamehub\API\GameHubApi\obj\Debug\net10.0\GameHubApi.sourcelink.json
+C:\Users\randl\GameHub\gamehub\API\GameHubApi\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\randl\GameHub\gamehub\API\GameHubApi\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\randl\GameHub\gamehub\API\GameHubApi\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\randl\GameHub\gamehub\API\GameHubApi\obj\Debug\net10.0\scopedcss\bundle\GameHubApi.styles.css
+C:\Users\randl\GameHub\gamehub\API\GameHubApi\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\randl\GameHub\gamehub\API\GameHubApi\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\randl\GameHub\gamehub\API\GameHubApi\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\randl\GameHub\gamehub\API\GameHubApi\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\randl\GameHub\gamehub\API\GameHubApi\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\randl\GameHub\gamehub\API\GameHubApi\obj\Debug\net10.0\GameHubApi.csproj.Up2Date
+C:\Users\randl\GameHub\gamehub\API\GameHubApi\obj\Debug\net10.0\GameHubApi.dll
+C:\Users\randl\GameHub\gamehub\API\GameHubApi\obj\Debug\net10.0\refint\GameHubApi.dll
+C:\Users\randl\GameHub\gamehub\API\GameHubApi\obj\Debug\net10.0\GameHubApi.pdb
+C:\Users\randl\GameHub\gamehub\API\GameHubApi\obj\Debug\net10.0\GameHubApi.genruntimeconfig.cache
+C:\Users\randl\GameHub\gamehub\API\GameHubApi\obj\Debug\net10.0\ref\GameHubApi.dll

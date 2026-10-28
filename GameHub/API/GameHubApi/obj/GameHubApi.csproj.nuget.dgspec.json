@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lucje\\OneDrive - Summacollege O365\\school\\jaar4\\SoftwareDevelopmentGevorderd\\GameHub\\GameHub\\GameHub\\API\\GameHubApi\\GameHubApi.csproj": {}
+    "C:\\Users\\randl\\GameHub\\GameHub\\API\\GameHubApi\\GameHubApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lucje\\OneDrive - Summacollege O365\\school\\jaar4\\SoftwareDevelopmentGevorderd\\GameHub\\GameHub\\GameHub\\API\\GameHubApi\\GameHubApi.csproj": {
+    "C:\\Users\\randl\\GameHub\\GameHub\\API\\GameHubApi\\GameHubApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lucje\\OneDrive - Summacollege O365\\school\\jaar4\\SoftwareDevelopmentGevorderd\\GameHub\\GameHub\\GameHub\\API\\GameHubApi\\GameHubApi.csproj",
+        "projectUniqueName": "C:\\Users\\randl\\GameHub\\GameHub\\API\\GameHubApi\\GameHubApi.csproj",
         "projectName": "GameHubApi",
-        "projectPath": "C:\\Users\\Lucje\\OneDrive - Summacollege O365\\school\\jaar4\\SoftwareDevelopmentGevorderd\\GameHub\\GameHub\\GameHub\\API\\GameHubApi\\GameHubApi.csproj",
-        "packagesPath": "C:\\Users\\Lucje\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lucje\\OneDrive - Summacollege O365\\school\\jaar4\\SoftwareDevelopmentGevorderd\\GameHub\\GameHub\\GameHub\\API\\GameHubApi\\obj\\",
+        "projectPath": "C:\\Users\\randl\\GameHub\\GameHub\\API\\GameHubApi\\GameHubApi.csproj",
+        "packagesPath": "C:\\Users\\randl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\randl\\GameHub\\GameHub\\API\\GameHubApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Lucje\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\randl\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -46,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "11.0.100"
+        "SdkAnalysisLevel": "10.0.400"
       },
       "frameworks": {
         "net10.0": {
@@ -105,7 +104,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\11.0.100-rc.3.26522.148/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.403/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
