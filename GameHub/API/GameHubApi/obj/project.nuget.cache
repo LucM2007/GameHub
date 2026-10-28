@@ -32,15 +32,5 @@
     "C:\\Users\\randl\\.nuget\\packages\\system.identitymodel.tokens.jwt\\8.23.0\\system.identitymodel.tokens.jwt.8.23.0.nupkg.sha512",
     "C:\\Users\\randl\\.nuget\\packages\\zstdsharp.port\\0.7.3\\zstdsharp.port.0.7.3.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "message": "Problem reading the cache file C:\\Users\\randl\\GameHub\\GameHub\\API\\GameHubApi\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
-      "projectPath": "C:\\Users\\randl\\GameHub\\GameHub\\API\\GameHubApi\\GameHubApi.csproj",
-      "warningLevel": 1,
-      "filePath": "C:\\Users\\randl\\GameHub\\GameHub\\API\\GameHubApi\\GameHubApi.csproj",
-      "targetGraphs": []
-    }
-  ]
+  "logs": []
 }
