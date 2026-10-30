@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GameHubApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5723d9c461a98bce647d53042ca535f91760a6b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66eafacadae59ef96bf0b2a2ed877d8795c09673")]
 [assembly: System.Reflection.AssemblyProductAttribute("GameHubApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GameHubApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
