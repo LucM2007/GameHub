@@ -1213,23 +1213,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\randl\\.nuget\\packages\\": {},
+    "C:\\Users\\Maas\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\randl\\GameHub\\gamehub\\API\\GameHubApi\\GameHubApi.csproj",
+      "projectUniqueName": "C:\\Users\\Maas\\OneDrive - Summacollege O365\\Leerjaar 4 ICT\\GameHub\\GameHub\\GameHub\\API\\GameHubApi\\GameHubApi.csproj",
       "projectName": "GameHubApi",
-      "projectPath": "C:\\Users\\randl\\GameHub\\gamehub\\API\\GameHubApi\\GameHubApi.csproj",
-      "packagesPath": "C:\\Users\\randl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\randl\\GameHub\\gamehub\\API\\GameHubApi\\obj\\",
+      "projectPath": "C:\\Users\\Maas\\OneDrive - Summacollege O365\\Leerjaar 4 ICT\\GameHub\\GameHub\\GameHub\\API\\GameHubApi\\GameHubApi.csproj",
+      "packagesPath": "C:\\Users\\Maas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Maas\\OneDrive - Summacollege O365\\Leerjaar 4 ICT\\GameHub\\GameHub\\GameHub\\API\\GameHubApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\randl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Maas\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
